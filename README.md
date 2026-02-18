@@ -14,141 +14,79 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
 ### 🧠 About Me
-<p align="left">
 
-&nbsp;&nbsp;🌱&nbsp;&nbsp;<b>Currently exploring</b> &nbsp;→&nbsp; <code>System Design</code> • <code>LLM Integration</code> • <code>Scalable Systems</code>  
-
-&nbsp;&nbsp;💬&nbsp;&nbsp;<b>Ask me about</b> &nbsp;→&nbsp; <code>Java</code> • <code>DSA</code> • <code>APIs</code> • <code>FastAPI</code> • <code>AI/ML</code>  
-
-&nbsp;&nbsp;📫&nbsp;&nbsp;<b>Reach me</b> &nbsp;→&nbsp; <a href="mailto:shra23cs@cmrit.ac.in"><b>shra23cs@cmrit.ac.in</b></a>  
-
-&nbsp;&nbsp;⚡&nbsp;&nbsp;<b>Fun fact</b> &nbsp;→&nbsp; <i>I don’t write bugs… I create unexpected features 😌</i>
-
-</p>
+🌱 **Currently exploring** → `System Design` • `LLM Integration` • `Scalable Systems`  
+💬 **Ask me about** → `Java` • `DSA` • `APIs` • `FastAPI` • `AI/ML`  
+📫 **Reach me** → **shra23cs@cmrit.ac.in**  
+⚡ **Fun fact** → *I don’t write bugs… I create unexpected features 😌*
 
 ---
 
-<!-- ================= CONNECT ================= -->
 ### 🌐 Connect With Me
 <p align="center">
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/impressiveboy">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="52"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/impressiveshivam">
-  <img src="https://skillicons.dev/icons?i=instagram" height="52"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/shra23cs">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="52"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:shra23cs@cmrit.ac.in">
-  <img src="https://skillicons.dev/icons?i=gmail" height="52"/>
-</a>
-&nbsp;&nbsp;
+<a href="https://linkedin.com/in/impressiveboy"><img src="https://skillicons.dev/icons?i=linkedin" height="52"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/impressiveshivam"><img src="https://skillicons.dev/icons?i=instagram" height="52"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/shra23cs"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="52"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:shra23cs@cmrit.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="52"/></a>
 </p>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
 ### 🛠️ Tech Stack
 
 #### Languages
 <p align="center">
-&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
-&nbsp;
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
 </p>
 
 #### Backend & Databases
 <p align="center">
-&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=fastapi" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=oracle" height="50"/>
-&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,oracle,firebase" />
 </p>
 
 #### AI / ML
 <p align="center">
-&nbsp;
-<img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tensorflow" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=opencv" height="50"/>
-&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
 #### Dev & Cloud
 <p align="center">
-&nbsp;
-<img src="https://skillicons.dev/icons?i=aws" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=grafana" height="50"/>
-&nbsp;
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github,grafana" />
 </p>
 
 #### Frontend
 <p align="center">
-&nbsp;
-<img src="https://skillicons.dev/icons?i=react" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-&nbsp;
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ---
 
-<!-- ================= STATS ================= -->
 ### 📊 GitHub Analytics
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamrajsr07&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrajsr07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shivamrajsr07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrajsr07&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrajsr07&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shivamrajsr07&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+# 📈 Contribution Line Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamrajsr07&theme=tokyo-night&bg_color=0d1117&color=22d3ee&line=22d3ee&point=facc15&hide_border=true&area=true" width="100%"/>
 
 ---
 
 ### 😂 Developer Philosophy
 <p align="center">
-<b>Code works → Don’t touch it 😌<br>
-Code breaks → I was just testing edge cases 🤓</b>
+<b>
+Code works → Don’t touch it 😌 <br>
+Code breaks → I was testing edge cases 🤓
+</b>
 </p>
 
 ---
 
-<p align="center">
-  ⭐ If my code helped you, your star helps me!
-</p>
+<p align="center">⭐ If my code helped you, your star helps me!</p>
