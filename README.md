@@ -1,9 +1,9 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm <b>Shivam Raj</b></h1>
-<h3 align="center">🚀 Computer Science Student | Building Intelligent & Scalable Systems</h3>
+<h3 align="center">💡 Java Lover | AI/ML Explorer | Builder of Smart Stuff</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+%7C+AI+Developer;FastAPI+%7C+System+Design+%7C+LLM+Integration;I+build+things+that+think+🤖;Always+learning+something+new+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=I+turn+coffee+into+code+☕;Java+is+not+a+language+it's+an+emotion;Teaching+machines+to+think+🤖;Debugging+is+my+cardio+🏃‍♂️;Still+looking+for+that+missing+semicolon..." />
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 <!-- ================= ABOUT ================= -->
 ### 🧠 About Me
-- 🌱 Currently learning **System Design, LLM Integration & Scalable Backend Architecture**
-- 💬 Ask me about **DSA, APIs, FastAPI, Backend Engineering & AI Integrations**
+- 🌱 Currently exploring **System Design, LLM Integration & Scalable Systems**
+- 💬 Ask me about **Java, DSA, APIs, FastAPI & AI/ML**
 - 📫 Reach me at **shra23cs@cmrit.ac.in**
-- ⚡ Fun fact: *I enjoy teaching machines how to think*
+- ⚡ Fun fact: *I don’t write bugs… I create unexpected features*
 
 ---
 
@@ -38,7 +38,7 @@
 ### 🛠️ Tech Stack
 #### Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
 </p>
 
 #### Backend & Databases
@@ -84,22 +84,14 @@
 
 ---
 
-<!-- ================= TROPHIES ================= -->
-### 🏆 Achievements
+<!-- ================= FUN QUOTE ================= -->
+### 😂 Developer Philosophy
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamrajsr07&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
-
----
-
-<!-- ================= QUOTE ================= -->
-### ✨ Dev Philosophy
-<p align="center">
-  <i>"First solve the problem. Then write the code."</i>
+  <b>99% confidence → code runs → 1% missing bracket → 2 hours gone → laptop restart → works → never understood why 😌</b>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving a star to my repositories!
+  ⭐ If my code helped you, your star helps me!
 </p>
