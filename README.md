@@ -62,7 +62,7 @@
 
 ---
 
-# 📊 GitHub Analytics (Auto Updating)
+# 📊 GitHub Analytics 
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shivamrajsr07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
@@ -76,7 +76,7 @@
 ---
 
 
-# 📈 Contribution Line Graph (Live Style)
+# 📈 Contribution Line Graph 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamrajsr07&theme=tokyo-night&bg_color=0d1117&color=22d3ee&line=22d3ee&point=facc15&area=true&hide_border=true"/>
 </p>
