@@ -1,165 +1,222 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm <b>Shivam Raj</b></h1>
-<h3 align="center">💡 Java Lover | AI/ML Explorer | Builder of Smart Stuff</h3>
+# Hi 👋, I'm Shivam Raj
+
+<h3 align="center">💻 Software Engineer in Progress | ☕ Java Backend Developer | 🤖 AI & ML Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=22D3EE&center=true&vCenter=true&width=720&lines=I+turn+coffee+into+code+☕;Java+is+not+a+language+it's+an+emotion;Teaching+machines+to+think+🤖;Debugging+is+my+cardio+🏃‍♂️;Still+searching+for+that+missing+semicolon..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI+that+solves+real+problems;Java+%7C+Backend+%7C+System+Design;FastAPI+%7C+React+%7C+Machine+Learning;Hackathons+%7C+Open+Source+%7C+DSA;Always+Learning.+Always+Building." />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamrajsr07&label=Profile%20Views&color=0ea5e9&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/shivamrajsr07?style=for-the-badge&color=0ea5e9"/>
-  <img src="https://img.shields.io/github/stars/shivamrajsr07?style=for-the-badge&color=facc15"/>
+<img src="https://komarev.com/ghpvc/?username=shivamrajsr07&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/followers/shivamrajsr07?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/shivamrajsr07?style=for-the-badge"/>
 </p>
 
 ---
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
+## 🚀 About Me
 
-🌱 Currently exploring:
+🎓 Computer Science Engineering student at **CMR Institute of Technology**
 
-🏗️ System Design
-🤖 LLM Integration
-⚡ Scalable Systems
-☁️ Cloud Engineering
+💻 Interested in
 
-💬 Ask me about:
+- Java Backend Development
+- Artificial Intelligence & Machine Learning
+- Large Language Models
+- System Design
+- Cloud Computing
 
-Java ☕
-DSA 🧠
-APIs 🌐
-FastAPI ⚡
-AI/ML 🤖
+🌱 Currently Learning
 
-📫 Reach me:
-shra23cs@cmrit.ac.in
+- Spring Boot
+- AWS
+- Docker
+- Kubernetes
+- High Level System Design
 
-⚡ Fun Fact:
+🎯 Career Goal
 
-I don't write bugs.
-I create surprise features.
-
-🌐 Connect With Me
-<div align="center"> <a href="https://linkedin.com/in/impressiveboy"> <img src="https://skillicons.dev/icons?i=linkedin" height="60"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/impressiveshivam"> <img src="https://skillicons.dev/icons?i=instagram" height="60"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/shra23cs"> <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="60"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:shra23cs@cmrit.ac.in"> <img src="https://skillicons.dev/icons?i=gmail" height="60"/> </a> </div>
-⚔️ Tech Arsenal
-👨‍💻 Languages
-<div align="center"> <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript"/> </div>
-⚙️ Backend + Database
-<div align="center"> <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,oracle,firebase"/> </div>
-🤖 AI / ML
-<div align="center"> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv"/> </div>
-☁️ DevOps / Cloud
-<div align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,grafana"/> </div>
-🎨 Frontend
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,html,css"/> </div>
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamrajsr07&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrajsr07&theme=tokyonight&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrajsr07&layout=compact&theme=tokyonight&hide_border=true"/> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamrajsr07&theme=tokyo-night&bg_color=0d1117&color=22d3ee&line=22d3ee&point=facc15&area=true&hide_border=true"/> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shivamrajsr07&theme=tokyonight&no-frame=true&row=1&column=7"/> </div>
-😂 Developer Humor
-<div align="center">
-💀 99 little bugs in the code
-💀 Take one down, patch it around
-💀 127 little bugs in the code
-<br>
-Programmer:
-
-"Works on my machine."
-
-Production Server:
-
-"Interesting."
-
-</div>
-💬 Random Dev Quote
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </div>
-🎮 Pacman Contribution
-<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </div>
-🧠 Coding Joke Terminal
-<div align="center">
-$ sudo make me a billionaire
-[sudo] password for shivam:
-ERROR: ambition exceeds available RAM
-$ git commit -m "final final real final"
-nothing to commit, working tree clean
-$ java MyLife
-Exception in thread "main" MotivationNotFoundException
-</div>
-🚀 Current Mission
-[✓] Master DSA
-[✓] Build AI Projects
-[✓] Crack Top Internship
-[✓] Become Unstoppable
-🧠 Philosophy
-<div align="center">
-
-"First, solve the problem. Then, write the code."
-
-— John Johnson
-
-</div>
-## 🔥 ENTER HACKER MODE
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=ACCESSING+SHIVAM+RAJ+SYSTEM...;INITIALIZING+AI+CORE...;LOADING+JAVA+MODULE...;CONNECTING+TO+THE+MATRIX...;WELCOME+TO+THE+CODEBASE..." />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="850"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-HACKER-00ff41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-LOADED-00ff41?style=for-the-badge"/>
-
-</div>
+Build software used by millions and become a world-class Software Engineer.
 
 ---
 
-## 💻 SYSTEM TERMINAL
-> booting ShivamOS...
+## 🏆 Highlights
 
-[████████████████████] 100%
+- 🏅 Smart India Hackathon Finalist
+- 🤖 Built multiple AI & ML applications
+- 🚀 Active Hackathon Participant
+- ⚡ FastAPI + React Developer
+- ☁️ Exploring Cloud & DevOps
 
-✔ Java module loaded
-✔ AI engine activated
-✔ DSA brain connected
-✔ Debugger armed
-✔ Coffee dependency installed
-✔ Motivation.exe running
+---
 
-WARNING:
-This developer may build something dangerous 🚀
-🚀 CURRENT OBJECTIVES
-mission:
-  - Master DSA
-  - Build world-class AI systems
-  - Crack top internships
-  - Become impossible to ignore
+## ⭐ Featured Projects
 
-status:
-  coding: ACTIVE
-  coffee: ACTIVE
-  sleep: DISABLED
-😂 DEV LOGS
-$ git push origin main
-dreams uploaded successfully
+### 🤖 AI Interview Analyzer
+LLM-powered interview analysis platform with speech and resume insights.
 
-$ sudo become-billionaire
-ERROR: permission denied
+### 🌾 AgriPulse AI
+AI platform for crop disease detection and agricultural recommendations.
 
-$ npm install sleep
-404 package not found
+### 🚦 Traffic Demand Forecasting
+Machine learning solution using LightGBM, CatBoost and XGBoost.
 
-$ java MyLife
-MotivationRecoveredException
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:00ff41,100:000000&text=THANKS%20FOR%20VISITING&fontColor=ffffff&fontSize=38&animation=twinkling"/>
-⭐ YOU SURVIVED THE MATRIX
-☕ Respect the caffeine
-💻 Trust the code
-🚀 Star the repos
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=See+you+in+production...;Keep+building...;Hack+the+future..." /> </div> 
+### 📅 Deadline Guardian AI
+AI productivity assistant for students.
+
+### 🛡 Digital Fraud Detection
+Hackathon project for phishing and malicious link detection.
+
+---
+
+## ⚔️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,sql"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,mongodb,mysql"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,grafana"/>
+</p>
+
+---
+
+## 🚀 2026 Roadmap
+
+- ✅ Master DSA
+- ✅ Build AI Products
+- 🔄 Spring Boot
+- 🔄 System Design
+- 🔄 AWS
+- 🔄 Docker
+- 🔄 Kubernetes
+- 🎯 Crack Top Software Engineering Internship
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shivamrajsr07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrajsr07&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrajsr07&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamrajsr07&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 💻 Developer Terminal
+
+```bash
+$ whoami
+
+Shivam Raj
+
+Software Engineer in Progress
+
+Java Developer
+
+AI Builder
+
+$ current_status
+
+Coding...
+
+Learning...
+
+Building...
+
+$ mission
+
+Create software that solves real-world problems.
+
+$ coffee
+
+Required ☕
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:shra23cs@cmrit.ac.in">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+<a href="https://linkedin.com/in/impressiveboy">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="https://leetcode.com/shra23cs">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
+</a>
+
+<a href="https://instagram.com/impressiveshivam">
+<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Philosophy
+
+> "Programs must be written for people to read, and only incidentally for machines to execute."
+>
+> **Harold Abelson**
+
+---
+
+<p align="center">
+
+### Thanks for visiting!
+
+⭐ Explore my repositories
+
+🤝 Let's connect
+
+🚀 Keep Building.
+
+</p>
