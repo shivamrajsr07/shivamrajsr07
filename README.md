@@ -5,7 +5,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI+that+solves+real+problems;Java+%7C+Backend+%7C+System+Design;FastAPI+%7C+React+%7C+Machine+Learning;Hackathons+%7C+Open+Source+%7C+DSA;Always+Learning.+Always+Building." />
 </p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shivamrajsr07&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
 <img src="https://img.shields.io/github/followers/shivamrajsr07?style=for-the-badge"/>
