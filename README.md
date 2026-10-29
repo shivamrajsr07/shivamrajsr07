@@ -1,49 +1,46 @@
-# Hi 👋, I'm Shivam Raj
 
-<h3 align="center">☁️ DevOps Engineering Intern | 🚀 Cloud & Infrastructure | 💻 Software Engineer in Progress</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=DevOps+Engineering+Intern;Automating+Infrastructure+%26+Deployments;Linux+%7C+Cloud+%7C+CI%2FCD;Docker+%7C+Kubernetes+%7C+AWS;AI+%2B+Cloud+%2B+Automation;Always+Learning.+Always+Building." />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:0B3B5A,100:00E5FF&text=SHIVAM%20RAJ&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=DEVOPS%20ENGINEERING%20%7C%20CLOUD%20%7C%20AUTOMATION&descAlignY=57&descSize=16&animation=fadeIn" width="100%" alt="Animated DevOps portfolio banner"/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shivamrajsr07&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
-<img src="https://img.shields.io/github/followers/shivamrajsr07?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/shivamrajsr07?style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2300&pause=650&color=00E5FF&center=true&vCenter=true&repeat=true&width=850&height=55&lines=DevOps+Engineering+Intern;Cloud+Infrastructure+%7C+CI%2FCD+%7C+Automation;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;From+Code+Commit+to+Reliable+Deployment;Learn.+Automate.+Deploy.+Observe.+Improve." alt="Animated typing introduction"/>
+
+<a href="https://github.com/shivamrajsr07"><img src="https://img.shields.io/badge/GitHub-shivamrajsr07-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/impressiveboy"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:shra23cs@cmrit.ac.in"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=shivamrajsr07&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## `$ whoami`
 
-🎓 Computer Science Engineering student at **CMR Institute of Technology, Bengaluru**
+```yaml
+name: Shivam Raj
+role: DevOps Engineering Intern
+company: Tiket International Network Pvt. Ltd.
+education: Computer Science Engineering
+institute: CMR Institute of Technology, Bengaluru
+interests:
+  - DevOps and Cloud Engineering
+  - Infrastructure Automation
+  - CI/CD and Containerization
+  - Reliability and Observability
+  - AI and Backend Development
+mindset: Learn | Automate | Deploy | Improve
+```
 
-☁️ Currently working as a **DevOps Engineering Intern at Tiket International Network Pvt. Ltd.**
+I'm a Computer Science Engineering student and **DevOps Engineering Intern** interested in building reliable systems and improving the way software is delivered. I enjoy exploring the connection between software development, cloud infrastructure, automation, monitoring, and security.
 
-💻 Passionate about building reliable, scalable, and automated systems.
+- ☁️ Learning cloud infrastructure and deployment workflows.
+- 🐧 Strengthening Linux, networking, and shell scripting fundamentals.
+- 🔄 Exploring CI/CD pipelines and Infrastructure as Code.
+- 🐳 Building practical knowledge of Docker and Kubernetes.
+- 📈 Learning observability, reliability, security, and cloud cost awareness.
+- 🤖 Applying my software development and AI/ML background to practical projects.
 
-### Areas of Interest
-
-- ☁️ DevOps & Cloud Engineering
-- 🐧 Linux Administration & Shell Scripting
-- 🔄 CI/CD Pipelines & Deployment Automation
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes & Container Orchestration
-- 🏗️ Infrastructure as Code (IaC)
-- 📊 Monitoring, Logging & Reliability Engineering
-- 🤖 AI/ML & Backend Development
-
-### 🌱 Currently Learning
-
-- Linux, networking, and server administration
-- AWS cloud infrastructure and resource optimization
-- Docker and Kubernetes
-- CI/CD with GitHub Actions and Jenkins
-- Terraform and Infrastructure as Code
-- Prometheus, Grafana, and observability
-- DevSecOps, cloud security, and FinOps fundamentals
-
-🎯 **My Mission:** Build secure, scalable, automated infrastructure and become a highly skilled DevOps / Cloud Engineer.
+> **My engineering loop:** Understand → Automate → Deploy → Observe → Improve
 
 ---
 
@@ -52,217 +49,195 @@
 ### ☁️ DevOps Engineering Intern
 **Tiket International Network Pvt. Ltd.**
 
-- Exploring DevOps workflows, infrastructure management, and deployment practices.
-- Developing practical knowledge of cloud computing, Linux, networking, and automation.
-- Learning containerization, CI/CD, monitoring, and infrastructure optimization.
-- Building a strong foundation in reliability, security, and operational efficiency.
+- Developing practical knowledge of DevOps workflows and infrastructure operations.
+- Exploring cloud environments, Linux administration, networking, and automation.
+- Learning containerization, CI/CD, deployment, and monitoring practices.
+- Building an understanding of reliability, security, and cost-aware infrastructure.
 
-*I share learning projects and independent implementations here. Company-specific systems and confidential work are not published.*
-
----
-
-## 🏆 Highlights
-
-- ☁️ DevOps Engineering Intern
-- 🏅 Smart India Hackathon Finalist
-- 🤖 Built AI/ML and backend application prototypes
-- 🚀 Active hackathon participant
-- 💻 Experience with Python, Java, React, and FastAPI
-- 🔧 Expanding hands-on skills in cloud, automation, and infrastructure
+*This profile showcases personal projects and public learning, not confidential company infrastructure.*
 
 ---
 
-## ⭐ Featured Projects
+## ⚙️ DevOps Workflow
 
-### 🤖 AI Interview Analyzer
-An AI-powered interview analysis platform that combines speech processing, resume insights, and NLP.
+```mermaid
+flowchart LR
+    A["💻 Code"] --> B["🔀 Git Push"]
+    B --> C["⚙️ CI Pipeline"]
+    C --> D["🧪 Test & Scan"]
+    D --> E["📦 Build Image"]
+    E --> F["☁️ Deploy"]
+    F --> G["📊 Monitor"]
+    G -. "Feedback" .-> A
 
-**Tech:** Python, Streamlit, OpenCV, NLP
+    classDef cyan fill:#06283D,stroke:#00E5FF,color:#FFFFFF,stroke-width:1.5px;
+    class A,B,C,D,E,F,G cyan;
+```
 
-### 🌾 AgriPulse AI
-An AI-driven agricultural platform designed to support crop disease detection and agricultural recommendations.
-
-**Tech:** Python, Machine Learning, AI
-
-### 🚦 Traffic Demand Forecasting
-A machine learning project for traffic demand prediction using gradient-boosting algorithms.
-
-**Tech:** Python, LightGBM, CatBoost, XGBoost
-
-### 📅 Deadline Guardian AI
-An AI-powered productivity assistant designed to help students manage deadlines and tasks.
-
-**Tech:** React, Node.js, Firebase, Google Gemini
-
-### ☁️ DevOps & Cloud Engineering Lab
-A growing collection of hands-on implementations covering infrastructure provisioning, Linux administration, deployment automation, containerization, monitoring, and cloud cost optimization.
-
-**Tech:** Linux, Bash, Git, Docker, AWS, CI/CD, Kubernetes, Terraform
-
-> Explore my repositories for project implementations, experiments, and technical documentation.
+*Conceptual workflow, not a claim that this complete pipeline is deployed in production.*
 
 ---
 
-## ⚔️ Tech Stack
+## 🧰 Technology Stack
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript"/>
-</p>
-
-### DevOps & Automation
+### Cloud, DevOps & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,jenkins,terraform"/>
-</p>
-
-### Cloud & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,aws,terraform,kubernetes" alt="Linux, Bash, Git, GitHub, Docker, AWS, Terraform and Kubernetes"/>
 </p>
 
 ### CI/CD & Observability
 
 <p>
-<img src="https://skillicons.dev/icons?i=githubactions,grafana,prometheus"/>
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,prometheus,grafana" alt="GitHub Actions, Jenkins, Prometheus and Grafana"/>
 </p>
 
-### Backend & Databases
+### Programming & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,firebase"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,nodejs,fastapi,mysql,mongodb" alt="Programming languages, backend frameworks and databases"/>
 </p>
 
 ### Frontend & AI/ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,tensorflow,pytorch,opencv"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,tensorflow,pytorch,opencv" alt="Frontend and AI/ML tools"/>
 </p>
+
+*These icons represent my toolkit and learning areas, not equal proficiency in every technology.*
 
 ---
 
-## 🗺️ My DevOps Engineering Roadmap
+## 🚀 Featured Projects
 
-- 🔄 Linux, Bash & Networking
-- 🔄 Git, GitHub & Version Control
-- 🔄 AWS & Cloud Infrastructure
-- 🔄 Docker & Containerization
-- 🔄 CI/CD with GitHub Actions and Jenkins
-- 🎯 Kubernetes & Container Orchestration
-- 🎯 Terraform & Infrastructure as Code
-- 🎯 Prometheus, Grafana & Observability
-- 🎯 DevSecOps & Cloud Security
-- 🎯 FinOps & Cloud Cost Optimization
-- 🚀 Production-ready DevOps portfolio projects
-- 🎯 Prepare for DevOps, SRE, and Cloud Engineering roles at leading MNCs
+### ☁️ DevOps & Cloud Engineering Lab
+
+A hands-on portfolio for documenting infrastructure and automation experiments.
+
+**Focus:** Linux administration, Bash, CI/CD, Docker, AWS, Terraform, Kubernetes, monitoring, and cloud cost optimization.
+
+### 🤖 AI Interview Analyzer
+
+An AI-powered application for interview analysis and resume insights.
+
+**Stack:** Python · Streamlit · OpenCV · NLP
+
+### 🌾 AgriPulse AI
+
+An AI-driven agricultural platform exploring crop disease detection and recommendations.
+
+**Stack:** Python · Machine Learning
+
+### 🚦 Traffic Demand Forecasting
+
+A machine learning project exploring traffic-demand prediction with gradient-boosting models.
+
+**Stack:** Python · LightGBM · CatBoost · XGBoost
+
+### 📅 Deadline Guardian AI
+
+An AI productivity assistant for managing student tasks and deadlines.
+
+**Stack:** React · Node.js · Firebase · Google Gemini
+
+> Add direct repository links to these project headings when the corresponding repositories are public. Prioritize working demos, architecture diagrams, setup instructions, and lessons learned.
 
 ---
 
-## 📊 GitHub Analytics
+## 🗺️ Current Learning Roadmap
 
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shivamrajsr07&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrajsr07&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrajsr07&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+| Area | Current focus |
+|---|---|
+| Linux & networking | Commands, permissions, processes, SSH, DNS, and ports |
+| Shell scripting | Bash fundamentals and task automation |
+| AWS & cloud | Core services, IAM, networking, compute, and storage |
+| CI/CD | Pipeline stages, tests, artifacts, and deployment workflows |
+| Containers | Docker images, containers, volumes, and networks |
+| Orchestration | Kubernetes workloads, services, and configuration |
+| Infrastructure as Code | Terraform fundamentals and repeatable provisioning |
+| Observability | Metrics, logs, dashboards, and alerting |
+| DevSecOps & FinOps | Least privilege, secrets, resource efficiency, and cost awareness |
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Control Room
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamrajsr07&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=shivamrajsr07&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&rank_icon=github" alt="GitHub statistics"/>
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamrajsr07&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamrajsr07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" alt="Most-used programming languages"/>
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamrajsr07&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamrajsr07/shivamrajsr07/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamrajsr07/shivamrajsr07/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/shivamrajsr07/shivamrajsr07/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
 
 ---
 
-## 💻 Developer Terminal
+## 🏆 Highlights
+
+- 🏅 Smart India Hackathon Finalist
+- 🚀 Hackathon participant and project builder
+- 🤖 AI/ML and backend application prototyping
+- ☁️ DevOps and cloud engineering career development
+
+---
+
+## 🖥️ Terminal Session
 
 ```bash
-$ whoami
+shivam@cloud-lab:~$ whoami
 Shivam Raj
 
-$ current_role
+shivam@cloud-lab:~$ cat current_role.txt
 DevOps Engineering Intern
 
-$ focus
-Linux | Cloud | CI/CD | Automation
+shivam@cloud-lab:~$ echo $FOCUS
+Cloud | Linux | CI/CD | Automation
 
-$ exploring
-Docker | Kubernetes | Terraform | AWS
+shivam@cloud-lab:~$ git status
+Learning new skills...
+Building practical projects...
+Improving every day...
 
-$ mindset
-Learn. Automate. Deploy. Monitor. Improve.
+shivam@cloud-lab:~$ deploy --future
+Reliable. Secure. Scalable.
 
-$ mission
-Build reliable infrastructure and software
-that solves real-world problems.
-
-$ coffee
-Required ☕
+shivam@cloud-lab:~$ _
 ```
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:shra23cs@cmrit.ac.in">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
+<a href="https://github.com/shivamrajsr07"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/impressiveboy"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/shra23cs/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="mailto:shra23cs@cmrit.ac.in"><img src="https://img.shields.io/badge/Email-Say%20hello-D14836?style=for-the-badge&logo=gmail" alt="Email"/></a>
 
-<a href="https://www.linkedin.com/in/impressiveboy">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
+<br/><br/>
 
-<a href="https://leetcode.com/u/shra23cs/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050816,50:0B3B5A,100:00E5FF" width="100%" alt="Decorative footer banner"/>
 
-<a href="https://instagram.com/impressiveshivam">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
-</a>
+**Thanks for stopping by.**
 
-</p>
+*Learn continuously. Automate thoughtfully. Ship reliably.* ☁️
 
-<p align="center">
-<a href="https://github.com/shivamrajsr07">Explore my GitHub repositories</a>
-</p>
-
----
-
-## 💡 Philosophy
-
-> "Programs must be written for people to read, and only incidentally for machines to execute."
->
-> **Harold Abelson**
-
----
-
-<p align="center">
-
-### Thanks for visiting my profile! 👋
-
-☁️ Learning DevOps, one deployment at a time.
-
-🛠️ Building. Automating. Improving.
-
-🤝 Open to learning, collaboration, and open-source contributions.
-
-🚀 Let's build something meaningful!
-
-</p>
+</div>
