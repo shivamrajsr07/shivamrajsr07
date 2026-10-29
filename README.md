@@ -1,10 +1,11 @@
 # Hi 👋, I'm Shivam Raj
 
-<h3 align="center">💻 Software Engineer in Progress | ☕ Java Backend Developer | 🤖 AI & ML Builder</h3>
+<h3 align="center">☁️ DevOps Engineering Intern | 🚀 Cloud & Infrastructure | 💻 Software Engineer in Progress</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI+that+solves+real+problems;Java+%7C+Backend+%7C+System+Design;FastAPI+%7C+React+%7C+Machine+Learning;Hackathons+%7C+Open+Source+%7C+DSA;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&lines=DevOps+Engineering+Intern;Automating+Infrastructure+%26+Deployments;Linux+%7C+Cloud+%7C+CI%2FCD;Docker+%7C+Kubernetes+%7C+AWS;AI+%2B+Cloud+%2B+Automation;Always+Learning.+Always+Building." />
 </p>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shivamrajsr07&label=Profile+Views&style=for-the-badge&color=0ea5e9"/>
 <img src="https://img.shields.io/github/followers/shivamrajsr07?style=for-the-badge"/>
@@ -15,103 +16,147 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Engineering student at **CMR Institute of Technology**
+🎓 Computer Science Engineering student at **CMR Institute of Technology, Bengaluru**
 
-💻 Interested in
+☁️ Currently working as a **DevOps Engineering Intern at Tiket International Network Pvt. Ltd.**
 
-- Java Backend Development
-- Artificial Intelligence & Machine Learning
-- Large Language Models
-- System Design
-- Cloud Computing
+💻 Passionate about building reliable, scalable, and automated systems.
 
-🌱 Currently Learning
+### Areas of Interest
 
-- Spring Boot
-- AWS
-- Docker
-- Kubernetes
-- High Level System Design
+- ☁️ DevOps & Cloud Engineering
+- 🐧 Linux Administration & Shell Scripting
+- 🔄 CI/CD Pipelines & Deployment Automation
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes & Container Orchestration
+- 🏗️ Infrastructure as Code (IaC)
+- 📊 Monitoring, Logging & Reliability Engineering
+- 🤖 AI/ML & Backend Development
 
-🎯 Career Goal
+### 🌱 Currently Learning
 
-Build software used by millions and become a world-class Software Engineer.
+- Linux, networking, and server administration
+- AWS cloud infrastructure and resource optimization
+- Docker and Kubernetes
+- CI/CD with GitHub Actions and Jenkins
+- Terraform and Infrastructure as Code
+- Prometheus, Grafana, and observability
+- DevSecOps, cloud security, and FinOps fundamentals
+
+🎯 **My Mission:** Build secure, scalable, automated infrastructure and become a highly skilled DevOps / Cloud Engineer.
+
+---
+
+## 💼 Professional Experience
+
+### ☁️ DevOps Engineering Intern
+**Tiket International Network Pvt. Ltd.**
+
+- Exploring DevOps workflows, infrastructure management, and deployment practices.
+- Developing practical knowledge of cloud computing, Linux, networking, and automation.
+- Learning containerization, CI/CD, monitoring, and infrastructure optimization.
+- Building a strong foundation in reliability, security, and operational efficiency.
+
+*I share learning projects and independent implementations here. Company-specific systems and confidential work are not published.*
 
 ---
 
 ## 🏆 Highlights
 
+- ☁️ DevOps Engineering Intern
 - 🏅 Smart India Hackathon Finalist
-- 🤖 Built multiple AI & ML applications
-- 🚀 Active Hackathon Participant
-- ⚡ FastAPI + React Developer
-- ☁️ Exploring Cloud & DevOps
+- 🤖 Built AI/ML and backend application prototypes
+- 🚀 Active hackathon participant
+- 💻 Experience with Python, Java, React, and FastAPI
+- 🔧 Expanding hands-on skills in cloud, automation, and infrastructure
 
 ---
 
 ## ⭐ Featured Projects
 
 ### 🤖 AI Interview Analyzer
-LLM-powered interview analysis platform with speech and resume insights.
+An AI-powered interview analysis platform that combines speech processing, resume insights, and NLP.
+
+**Tech:** Python, Streamlit, OpenCV, NLP
 
 ### 🌾 AgriPulse AI
-AI platform for crop disease detection and agricultural recommendations.
+An AI-driven agricultural platform designed to support crop disease detection and agricultural recommendations.
+
+**Tech:** Python, Machine Learning, AI
 
 ### 🚦 Traffic Demand Forecasting
-Machine learning solution using LightGBM, CatBoost and XGBoost.
+A machine learning project for traffic demand prediction using gradient-boosting algorithms.
+
+**Tech:** Python, LightGBM, CatBoost, XGBoost
 
 ### 📅 Deadline Guardian AI
-AI productivity assistant for students.
+An AI-powered productivity assistant designed to help students manage deadlines and tasks.
 
-### 🛡 Digital Fraud Detection
-Hackathon project for phishing and malicious link detection.
+**Tech:** React, Node.js, Firebase, Google Gemini
+
+### ☁️ DevOps & Cloud Engineering Lab
+A growing collection of hands-on implementations covering infrastructure provisioning, Linux administration, deployment automation, containerization, monitoring, and cloud cost optimization.
+
+**Tech:** Linux, Bash, Git, Docker, AWS, CI/CD, Kubernetes, Terraform
+
+> Explore my repositories for project implementations, experiments, and technical documentation.
 
 ---
 
 ## ⚔️ Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,sql"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript"/>
 </p>
 
-### Backend
+### DevOps & Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,firebase,mongodb,mysql"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,jenkins,terraform"/>
 </p>
 
-### Frontend
+### Cloud & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=aws,kubernetes"/>
 </p>
 
-### AI / ML
+### CI/CD & Observability
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=githubactions,grafana,prometheus"/>
 </p>
 
-### DevOps & Cloud
+### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,grafana"/>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,firebase"/>
+</p>
+
+### Frontend & AI/ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,tensorflow,pytorch,opencv"/>
 </p>
 
 ---
 
-## 🚀 2026 Roadmap
+## 🗺️ My DevOps Engineering Roadmap
 
-- ✅ Master DSA
-- ✅ Build AI Products
-- 🔄 Spring Boot
-- 🔄 System Design
-- 🔄 AWS
-- 🔄 Docker
-- 🔄 Kubernetes
-- 🎯 Crack Top Software Engineering Internship
+- 🔄 Linux, Bash & Networking
+- 🔄 Git, GitHub & Version Control
+- 🔄 AWS & Cloud Infrastructure
+- 🔄 Docker & Containerization
+- 🔄 CI/CD with GitHub Actions and Jenkins
+- 🎯 Kubernetes & Container Orchestration
+- 🎯 Terraform & Infrastructure as Code
+- 🎯 Prometheus, Grafana & Observability
+- 🎯 DevSecOps & Cloud Security
+- 🎯 FinOps & Cloud Cost Optimization
+- 🚀 Production-ready DevOps portfolio projects
+- 🎯 Prepare for DevOps, SRE, and Cloud Engineering roles at leading MNCs
 
 ---
 
@@ -148,29 +193,25 @@ Hackathon project for phishing and malicious link detection.
 
 ```bash
 $ whoami
-
 Shivam Raj
 
-Software Engineer in Progress
+$ current_role
+DevOps Engineering Intern
 
-Java Developer
+$ focus
+Linux | Cloud | CI/CD | Automation
 
-AI Builder
+$ exploring
+Docker | Kubernetes | Terraform | AWS
 
-$ current_status
-
-Coding...
-
-Learning...
-
-Building...
+$ mindset
+Learn. Automate. Deploy. Monitor. Improve.
 
 $ mission
-
-Create software that solves real-world problems.
+Build reliable infrastructure and software
+that solves real-world problems.
 
 $ coffee
-
 Required ☕
 ```
 
@@ -184,11 +225,11 @@ Required ☕
 <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
-<a href="https://linkedin.com/in/impressiveboy">
+<a href="https://www.linkedin.com/in/impressiveboy">
 <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
-<a href="https://leetcode.com/shra23cs">
+<a href="https://leetcode.com/u/shra23cs/">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55"/>
 </a>
 
@@ -196,6 +237,10 @@ Required ☕
 <img src="https://skillicons.dev/icons?i=instagram" height="55"/>
 </a>
 
+</p>
+
+<p align="center">
+<a href="https://github.com/shivamrajsr07">Explore my GitHub repositories</a>
 </p>
 
 ---
@@ -210,12 +255,14 @@ Required ☕
 
 <p align="center">
 
-### Thanks for visiting!
+### Thanks for visiting my profile! 👋
 
-⭐ Explore my repositories
+☁️ Learning DevOps, one deployment at a time.
 
-🤝 Let's connect
+🛠️ Building. Automating. Improving.
 
-🚀 Keep Building.
+🤝 Open to learning, collaboration, and open-source contributions.
+
+🚀 Let's build something meaningful!
 
 </p>
